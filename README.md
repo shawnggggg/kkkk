@@ -3,7 +3,7 @@
 This is a project that applis three different networks (VGG-16, VGG-19, Xception) on a publicly available COVID-19 dataset, and uses the Choquet integral for ensemble to build an optimized model to help identify and diagnose COVID-19.
 
 ## Dataset
-The dataset for this project can be downloaded from [here]([https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)). 
+The dataset for this project can be downloaded from https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database.
 
 ## Environment and tools
 
